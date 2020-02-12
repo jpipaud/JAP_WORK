@@ -24,7 +24,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "!git config --global user.email \"jeananne.pipaud@gmail.com\""
+    "!git config --global user.email \"jean-anne.pipaud@ac-nantes.fr\""
    ]
   },
   {
